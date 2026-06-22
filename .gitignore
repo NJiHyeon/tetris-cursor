@@ -1,0 +1,6 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor / IDE (배포 불필요)
+# .cursor/
